@@ -1,6 +1,4 @@
-import { LightningElement } from 'lwc';
-
-export default class ImageGallery extimport { LightningElement, api, track } from 'lwc';
+import { LightningElement, api, track } from 'lwc';
 
 export default class ImageGallery extends LightningElement 
 {

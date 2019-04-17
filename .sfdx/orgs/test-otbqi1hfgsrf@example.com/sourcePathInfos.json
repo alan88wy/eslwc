@@ -47,10 +47,10 @@
         {
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 160,
-            "modifiedTime": 1555470047759,
-            "changeTime": 1555470047759,
-            "contentHash": "d1ddaaf204a0700e848dea3151c09d118f4d5271",
+            "size": 192,
+            "modifiedTime": 1555471654736,
+            "changeTime": 1555471654736,
+            "contentHash": "d01e47fabbaafa2ef12d706caafb75f4cdea20e2",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -58,15 +58,15 @@
     [
         "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc",
         {
-            "state": "u",
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc",
             "isDirectory": true,
+            "size": 672,
+            "modifiedTime": 1555471721010,
+            "changeTime": 1555471721010,
+            "contentHash": "513aa913bf7003a5ee575d59084db1b4d42a98ed",
             "isMetadataFile": false,
-            "size": 480,
-            "modifiedTime": 1555471119859,
-            "changeTime": 1555471119859,
-            "isWorkspace": false,
-            "contentHash": "d7aa715094a9fbd78cd77018232ab70865537775"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -296,53 +296,53 @@
     [
         "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 6193,
-            "modifiedTime": 1555403310662,
-            "changeTime": 1555403310662,
-            "contentHash": "400df0fbea95d336f571d45f6cf218a8f62af668",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 6436,
+            "modifiedTime": 1555472927382,
+            "changeTime": 1555472927382,
+            "contentHash": "1a47aa772530c34dfeab8336a013abc8a7f0e479"
         }
     ],
     [
         "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 6531,
-            "modifiedTime": 1555403310669,
-            "changeTime": 1555403310669,
-            "contentHash": "2ffa472f506c2bf646b7dd23c2e0f6bfceb2c83c",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 6774,
+            "modifiedTime": 1555472927393,
+            "changeTime": 1555472927393,
+            "contentHash": "402320a40e8871bd6d0c4d15fc38c4e95c262b8f"
         }
     ],
     [
         "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 20452,
-            "modifiedTime": 1555404362562,
-            "changeTime": 1555404362562,
-            "contentHash": "9849c4ec36e3e4a6575ffbe27aed7f6d4bfc2b2f",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 20575,
+            "modifiedTime": 1555472927439,
+            "changeTime": 1555472927439,
+            "contentHash": "67706fb2bfb9ddefc4ac30db79d27e0e272e92a3"
         }
     ],
     [
         "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 6193,
-            "modifiedTime": 1555403310713,
-            "changeTime": 1555403310713,
-            "contentHash": "400df0fbea95d336f571d45f6cf218a8f62af668",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 6436,
+            "modifiedTime": 1555472927444,
+            "changeTime": 1555472927444,
+            "contentHash": "1a47aa772530c34dfeab8336a013abc8a7f0e479"
         }
     ],
     [
@@ -1020,27 +1020,27 @@
     [
         "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/flexipages",
         {
+            "state": "u",
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/flexipages",
             "isDirectory": true,
-            "size": 192,
-            "modifiedTime": 1555403310647,
-            "changeTime": 1555403310647,
-            "contentHash": "e8f40d3528e311efbfadd83fdaeb8412a45ced20",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 224,
+            "modifiedTime": 1555472927362,
+            "changeTime": 1555472927362,
+            "contentHash": "cc350ed30ae7b6bb09a5b053dcc07d18b78a4f2c"
         }
     ],
     [
         "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/tabs",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1555403310648,
-            "changeTime": 1555403310648,
-            "contentHash": "30dcebc07adbf6717ade349c08f60375431b88e2",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 128,
+            "modifiedTime": 1555472927364,
+            "changeTime": 1555472927364,
+            "contentHash": "1a8e93fa94a99a4406a5246d79e292b4e49e2140"
         }
     ],
     [
@@ -1397,144 +1397,651 @@
     [
         "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/flows",
         {
+            "state": "u",
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/flows",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1555470047768,
-            "changeTime": 1555470047768,
-            "contentHash": "4d2039221ff81b177bd6cfc11bb10405850771dc",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 128,
+            "modifiedTime": 1555472927369,
+            "changeTime": 1555472927369,
+            "contentHash": "b2d64ccb271297dfcedb4edb8db10ec740e448ac"
         }
     ],
     [
         "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationList",
         {
-            "state": "u",
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1555471167983,
             "changeTime": 1555471167983,
-            "contentHash": "ce35b19e3e4df282bff73abe5e8db8631668b203"
+            "contentHash": "ce35b19e3e4df282bff73abe5e8db8631668b203",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationTile",
         {
-            "state": "u",
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationTile",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1555471003087,
             "changeTime": 1555471003087,
-            "contentHash": "3f94433f1b03fd0f607ed8dc9efd4a843dda0a0e"
+            "contentHash": "3f94433f1b03fd0f607ed8dc9efd4a843dda0a0e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationList/reservationList.html",
         {
-            "state": "u",
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationList/reservationList.html",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1134,
             "modifiedTime": 1555471143678,
             "changeTime": 1555471143678,
-            "contentHash": "d4e489ce8389b75dde3f0e197d78593bd05ba942"
+            "contentHash": "d4e489ce8389b75dde3f0e197d78593bd05ba942",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationList/reservationList.js",
         {
-            "state": "u",
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationList/reservationList.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2353,
             "modifiedTime": 1555471129662,
             "changeTime": 1555471129662,
-            "contentHash": "d27867bb52e1c0bec5a490ac8d9edffa920d4a8e"
+            "contentHash": "d27867bb52e1c0bec5a490ac8d9edffa920d4a8e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationList/reservationList.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationList/reservationList.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 325,
             "modifiedTime": 1555471178748,
             "changeTime": 1555471178748,
-            "contentHash": "4349b4e49fe8b8dfaeab68e9ff11d9bab79fd67a"
+            "contentHash": "4349b4e49fe8b8dfaeab68e9ff11d9bab79fd67a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationList/reservationList.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationList/reservationList.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1485,
             "modifiedTime": 1555471169820,
             "changeTime": 1555471169820,
-            "contentHash": "b1f927dc99535690aaac0a03e799d5912796b619"
+            "contentHash": "b1f927dc99535690aaac0a03e799d5912796b619",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationTile/reservationTile.css",
         {
-            "state": "u",
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationTile/reservationTile.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 27,
             "modifiedTime": 1555471006228,
             "changeTime": 1555471006228,
-            "contentHash": "6a41abe4d7c472ae5690836cd220e43162db86e2"
+            "contentHash": "6a41abe4d7c472ae5690836cd220e43162db86e2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationTile/reservationTile.html",
         {
-            "state": "u",
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationTile/reservationTile.html",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1428,
             "modifiedTime": 1555470983908,
             "changeTime": 1555470983908,
-            "contentHash": "e5077d6e39126d85b13278a41fdc6e65b75a5486"
+            "contentHash": "e5077d6e39126d85b13278a41fdc6e65b75a5486",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationTile/reservationTile.js",
         {
-            "state": "u",
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationTile/reservationTile.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1218,
             "modifiedTime": 1555470973188,
             "changeTime": 1555470973188,
-            "contentHash": "b896e3cd39ae6fdedce227d5910a103342da8225"
+            "contentHash": "b896e3cd39ae6fdedce227d5910a103342da8225",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationTile/reservationTile.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/reservationTile/reservationTile.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 230,
             "modifiedTime": 1555470954784,
             "changeTime": 1555470954784,
-            "contentHash": "3d6fe2d0f097910af199192009dbd85028aaf8c4"
+            "contentHash": "3d6fe2d0f097910af199192009dbd85028aaf8c4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1555471654744,
+            "changeTime": 1555471654744,
+            "contentHash": "25fa3012b3dc132c880c3e42ad64ff5cb492a9a0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/imageGallery",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/imageGallery",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1555471448672,
+            "changeTime": 1555471448672,
+            "contentHash": "a3d32fd0cb56de350aa45285e6b1e2b21a14219c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/imageTile",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/imageTile",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1555471421978,
+            "changeTime": 1555471421978,
+            "contentHash": "c0de9548c4fdefa980ce81a6520809cfd1d3436e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/pill",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/pill",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1555471516506,
+            "changeTime": 1555471516506,
+            "contentHash": "175dc4f28221f3bf7c5f441adbb7d36bd8f72b0a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/pillList",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/pillList",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1555471547983,
+            "changeTime": 1555471547983,
+            "contentHash": "9147f7b4daf84cba0267ca23ea15304d7c59be9c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/spaceDesignForm",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/spaceDesignForm",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1555471608049,
+            "changeTime": 1555471608049,
+            "contentHash": "251c73a2ee6d3c2724f78ae9b70f78a1030ae579",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/spaceDesigner",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/spaceDesigner",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1555471721011,
+            "changeTime": 1555471721011,
+            "contentHash": "ae5cfb33dfef006a1e2d6a809f5c6cb08aa3f73f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp/designFormCmp.auradoc",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp/designFormCmp.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1555471654743,
+            "changeTime": 1555471654743,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp/designFormCmp.cmp",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp/designFormCmp.cmp",
+            "isDirectory": false,
+            "size": 737,
+            "modifiedTime": 1555471670145,
+            "changeTime": 1555471670145,
+            "contentHash": "3214a4b637ffd1d5c6d1462b81abc5aaf483a69c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp/designFormCmp.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp/designFormCmp.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1555471654739,
+            "changeTime": 1555471654739,
+            "contentHash": "cd14e1100bda5aa4c8d96b2f71e1bf066887e2ae",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp/designFormCmp.css",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp/designFormCmp.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1555471654741,
+            "changeTime": 1555471654741,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp/designFormCmp.design",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp/designFormCmp.design",
+            "isDirectory": false,
+            "size": 297,
+            "modifiedTime": 1555471706638,
+            "changeTime": 1555471706638,
+            "contentHash": "dc0e52c81e06e74a332322373f29a4144e89a2c4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp/designFormCmp.svg",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp/designFormCmp.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1555471654742,
+            "changeTime": 1555471654742,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp/designFormCmpController.js",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp/designFormCmpController.js",
+            "isDirectory": false,
+            "size": 471,
+            "modifiedTime": 1555471680978,
+            "changeTime": 1555471680978,
+            "contentHash": "0b393a04f320d0ec396e1a4cfa235ba06894996e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp/designFormCmpHelper.js",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp/designFormCmpHelper.js",
+            "isDirectory": false,
+            "size": 226,
+            "modifiedTime": 1555471696195,
+            "changeTime": 1555471696195,
+            "contentHash": "6c7b70480174c2d29cedd023c341511347330789",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp/designFormCmpRenderer.js",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/aura/designFormCmp/designFormCmpRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1555471654742,
+            "changeTime": 1555471654742,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/imageGallery/imageGallery.html",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/imageGallery/imageGallery.html",
+            "isDirectory": false,
+            "size": 405,
+            "modifiedTime": 1555471472515,
+            "changeTime": 1555471472515,
+            "contentHash": "b13c2b1e81834a9462f139ae91c6abd0be8c071e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/imageGallery/imageGallery.js",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/imageGallery/imageGallery.js",
+            "isDirectory": false,
+            "size": 1198,
+            "modifiedTime": 1555472071582,
+            "changeTime": 1555472071582,
+            "contentHash": "9e8f6f914fc4e560776c0d7c027f5a26cb0b698a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/imageGallery/imageGallery.js-meta.xml",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/imageGallery/imageGallery.js-meta.xml",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1555471448671,
+            "changeTime": 1555471448671,
+            "contentHash": "2f5ab34c488d3f408f1f6a56df191f27abddc9ee",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/imageTile/imageTile.css",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/imageTile/imageTile.css",
+            "isDirectory": false,
+            "size": 431,
+            "modifiedTime": 1555471429999,
+            "changeTime": 1555471429999,
+            "contentHash": "cacbd5aaad36128140ba9f4cce2cb94250a68e78",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/imageTile/imageTile.html",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/imageTile/imageTile.html",
+            "isDirectory": false,
+            "size": 254,
+            "modifiedTime": 1555471412420,
+            "changeTime": 1555471412420,
+            "contentHash": "b27268cf5ded0766d38de87824dbf808436c07bd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/imageTile/imageTile.js",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/imageTile/imageTile.js",
+            "isDirectory": false,
+            "size": 360,
+            "modifiedTime": 1555471401387,
+            "changeTime": 1555471401387,
+            "contentHash": "c6978ba29ce9b1ea65e6cc368e9547f2062e194d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/imageTile/imageTile.js-meta.xml",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/imageTile/imageTile.js-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1555471391495,
+            "changeTime": 1555471391495,
+            "contentHash": "4abc423bff9dc2ed2df9214163b8c4781984e0db",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/pill/pill.css",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/pill/pill.css",
+            "isDirectory": false,
+            "size": 168,
+            "modifiedTime": 1555471522057,
+            "changeTime": 1555471522057,
+            "contentHash": "b983fcebd06e49e2d83fe1d3c035f68aac0fd5c2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/pill/pill.html",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/pill/pill.html",
+            "isDirectory": false,
+            "size": 150,
+            "modifiedTime": 1555471509509,
+            "changeTime": 1555471509509,
+            "contentHash": "abbcac4c9d3e5ae211e681c609c5811f11a7defe",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/pill/pill.js",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/pill/pill.js",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1555471497619,
+            "changeTime": 1555471497619,
+            "contentHash": "35aeb22843c3b6ea3f9e8bd63dc8a8fe41bf8129",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/pill/pill.js-meta.xml",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/pill/pill.js-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1555471488745,
+            "changeTime": 1555471488745,
+            "contentHash": "8671b560d067ce3fc602a11431c11e6305e35db1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/pillList/pillList.html",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/pillList/pillList.html",
+            "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1555471591820,
+            "changeTime": 1555471591820,
+            "contentHash": "ac96aebe03c9f9fc3ec399a4c03da315c57e8483",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/pillList/pillList.js",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/pillList/pillList.js",
+            "isDirectory": false,
+            "size": 1235,
+            "modifiedTime": 1555471559384,
+            "changeTime": 1555471559384,
+            "contentHash": "b5ac0380eee240011d971858425f9d07ad0f2b01",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/pillList/pillList.js-meta.xml",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/pillList/pillList.js-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1555471547983,
+            "changeTime": 1555471547983,
+            "contentHash": "6c012b7ad9d4d54af1801abbd90074d5aad68a1d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/spaceDesignForm/spaceDesignForm.html",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/spaceDesignForm/spaceDesignForm.html",
+            "isDirectory": false,
+            "size": 3628,
+            "modifiedTime": 1555471639628,
+            "changeTime": 1555471639628,
+            "contentHash": "9a79c16be0c3ed04ca1c73dbac1b86ea99b8fb82",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/spaceDesignForm/spaceDesignForm.js",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/spaceDesignForm/spaceDesignForm.js",
+            "isDirectory": false,
+            "size": 1726,
+            "modifiedTime": 1555471619331,
+            "changeTime": 1555471619331,
+            "contentHash": "c404f9b203087f791b963e6af2a44f9c8826556e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/spaceDesignForm/spaceDesignForm.js-meta.xml",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/spaceDesignForm/spaceDesignForm.js-meta.xml",
+            "isDirectory": false,
+            "size": 230,
+            "modifiedTime": 1555471608049,
+            "changeTime": 1555471608049,
+            "contentHash": "ca61b37a941397f5626014a6866a3f69293f531c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/spaceDesigner/spaceDesigner.html",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/spaceDesigner/spaceDesigner.html",
+            "isDirectory": false,
+            "size": 27,
+            "modifiedTime": 1555471721012,
+            "changeTime": 1555471721012,
+            "contentHash": "f77f405276fce2c457b8423303ffccb5a455abce",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/spaceDesigner/spaceDesigner.js",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/spaceDesigner/spaceDesigner.js",
+            "isDirectory": false,
+            "size": 1670,
+            "modifiedTime": 1555471734168,
+            "changeTime": 1555471734168,
+            "contentHash": "9a30388cc3e7982283ef418b13ecbb7af7c815e6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/spaceDesigner/spaceDesigner.js-meta.xml",
+        {
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/lwc/spaceDesigner/spaceDesigner.js-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1555471721011,
+            "changeTime": 1555471721011,
+            "contentHash": "19d64509306fcd0984f03313bbe2c486de08be82",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/flexipages/Spaces_Designer.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/flexipages/Spaces_Designer.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 719,
+            "modifiedTime": 1555472927362,
+            "changeTime": 1555472927362,
+            "contentHash": "15899f328d2fc7adcedc8fcfd1ad8ab64e3cb75d"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/tabs/Spaces_Designer.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/tabs/Spaces_Designer.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1555472927364,
+            "changeTime": 1555472927364,
+            "contentHash": "77f6ce0eee06290cb7add0d6b1ef75e61983e841"
+        }
+    ],
+    [
+        "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/flows/spaceDesigner.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/LWC/myeslwc/force-app/main/default/flows/spaceDesigner.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5677,
+            "modifiedTime": 1555472927370,
+            "changeTime": 1555472927370,
+            "contentHash": "ad301e04e39bee14a09a9cfe9fb00f73159e85ae"
         }
     ]
 ]
